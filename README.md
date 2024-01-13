@@ -14,4 +14,4 @@
 3. Create a `Ball` class to draw a ball on the screen and make it bounce on the screen.
 4. Detect the collision of the paddle and ball, create a score record class to show the score.
 
-**The completed code of this game is in the [main_code.py](https://github.com/ShiyuFan0820/PongGame/blob/main/main.py) file.**
+**The completed code of this game is in the [main.py](https://github.com/ShiyuFan0820/PongGame/blob/main/main.py) file.**
