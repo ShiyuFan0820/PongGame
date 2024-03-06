@@ -2,11 +2,7 @@
 
 **What will be made in the end:**
 
-<div align=center>
-<img width="623" alt="image" src="https://github.com/ShiyuFan0820/PongGame/assets/149340606/eff7a388-3857-4412-9d9a-505340592db9">
-</div>
-
-[Pong Game (Click here to watch the video)](https://youtu.be/yaeX8JCdFxE)
+[<img width="633" alt="image" src="https://github.com/ShiyuFan0820/PongGame/assets/149340606/f5135c86-3a49-4be0-96b1-91ad61414470">](https://youtu.be/yaeX8JCdFxE)
 
 **Follow the instructions below:**
 1. Create a screen, set up the screen size and color.
